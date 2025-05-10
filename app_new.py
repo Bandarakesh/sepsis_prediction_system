@@ -56,6 +56,8 @@ patient_df = pd.read_csv(os.path.join(BASE_DIR, "synthetic_icu_data.csv"))
 
 # === RAG PDF Chatbot Setup ===
 from langchain_openai import OpenAIEmbeddings
+from langchain_openai import ChatOpenAI
+
 from langchain_community.chat_models import ChatOpenAI
 from langchain.chains import RetrievalQA
 from langchain_pinecone import PineconeVectorStore

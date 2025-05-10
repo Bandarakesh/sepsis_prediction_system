@@ -14,9 +14,14 @@ psycopg2-binary
 
 #requirements file for the rag chatbot
 langchain
+
+langchain-openai
+
 openai
 pinecone-client
 langchain-pinecone
 langchain-openai
 python-dotenv
 pypdf
+
+pinecone-client
