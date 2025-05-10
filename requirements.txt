@@ -10,6 +10,8 @@ python-dotenv
 plotly
 streamlit
 bcrypt
+psycopg2-binary
+
 #requirements file for the rag chatbot
 langchain
 openai
