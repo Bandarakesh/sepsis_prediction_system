@@ -1,0 +1,20 @@
+pandas
+numpy
+scikit-learn
+joblib
+flask
+flask-cors
+tensorflow
+twilio
+python-dotenv
+plotly
+streamlit
+
+#requirements file for the rag chatbot
+langchain
+openai
+pinecone-client
+langchain-pinecone
+langchain-openai
+python-dotenv
+pypdf
