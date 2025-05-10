@@ -9,7 +9,7 @@ twilio
 python-dotenv
 plotly
 streamlit
-
+bcrypt
 #requirements file for the rag chatbot
 langchain
 openai
